@@ -57,11 +57,13 @@ Eftersom vårt arbete ligger i ett av de snabbast tempo industrier, är det vikt
 
 ### 1.2 Fallstudie - 100% webb
 
-2010 publicerade Google ett blogginlägg som man döpte till "Nothing but the web". Där pratar man om 100% webb som ett koncept där webben är den rådande mjukplattformen och där data lagras central i "cloudbaserade" lösningar och alla gränsnsitt är byggda av webbtekniker.
+•	Vad tror du om konceptet 100% webb, både i dagsläget och i framtiden?
 
-Vad tror du om konceptet 100% webb, både i dagsläget och i framtiden?
+Detta koncept är verklig och kommer att växa fast i framtiden och det kan hända snabbare än vi kan föreställa oss. Även om vi inte märker det.
 
-Hur skulle du klara dig idag om du bara använde dig av en webbläsare som programplattform. Vilka tjänster/mjukvaror kan du inte köra i en webbläsare?
+•	Hur skulle du klara dig idag om du bara använde dig av en webbläsare som programplattform. Vilka tjänster/mjukvaror kan du inte köra i en webbläsare?
+
+Instagram 
 
 ##Diskussionsfråga 2 - Öppen data
 
