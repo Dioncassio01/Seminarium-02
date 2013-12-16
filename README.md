@@ -85,10 +85,30 @@ De är kraven för öppen data, om informationen är att vara öppen data , mås
 
 •	Vad tror du tendenserna med mer öppen data kommer spela för roll för dig som webbutvecklare?
 
+Jag tror att tendensen för oss som utvecklare kommer att underlättas med Open Data. Allt beror på hur vi kommer att använda dessa uppgifter. 
+
+Man kan säga att användningen av crowdsourcing för offentliga eller politiska syften är mycket lik andra traditionella former av artikulation av människor mot ett gemensamt mål. Vad gör crowdsourcing som en praxis för öppenhet är att det tillåter stora mängder data för att få mening, och kan generera nya idéer för att utveckla projekt för samhället. 
+
+Den mashup är en praxis som har att göra med principerna i nätverket - t.ex. öppenhet, fri företagsamhet, samarbete - med tanken på att publicera information med avsikten att de ska återanvändas av utvecklare kan bygga korsningar, applikationer och differentierad vyer av data, ger ett mervärde och fler möjligheter att använda den här informationen. 
+
+För närvarande finns det flera tekniker för import och använder rådata som finns på webben. Sådan teknik är allt mer tillgänglig, och kräver mindre teknisk kunskap för att göra skapandet av åsikter och dubbelkontroller möjliga tid. 
+
+De värden som genereras av mashups i samband med offentlig insyn gör det möjligt att närma sig av regeringen i samhället och möjliggöra förändringar i regering och politik. 
+
+Inte alltid offentligt tillgänglig information på webben på ett strukturerat och läsbar form. Detta försvårar användningen av uppgifter från folk, men du kan samla sådan information till displayen. Detta kan göras antingen genom att människor genom upplevelser av crowdsourcing - som består av manuellt söka offentliga uppgifter som sprids över Internet, bygga strukturerade databaser - som med maskiner, med hjälp av tekniker för att skrapa eller skrapa uppgifter - som i korthet är sätt att ta bort data med vissa kännetecknande för nätverkets webbplatser genom kod. 
+
+Med tanke på detta scenario, kallar vi hacka handlingar hos människor att hacka offentliga data för att använda den information som erhållits för att skapa något värde.
 
 ###2.1 Fallstudie
 
 Vad för möjligheter- respektive risker ser du ur kommunens synvinkel att öppna upp sin data?
 
+Jag har kollat på Göteborgs Stads öppna data eftersom jag hittat inte Kalmar Kommuns. Möjligheter på denna webbplats är att man kan hitta information om öppna data tillgängliga från Göteborgs Stad. För att ha tillgång av deras API man behöver registrera sig. Det finns inte så mycket som man kan ser risker eftersom informationen är ganska publik. 
+
 Vad för möjligheter- respektive risker ser du som medborgare?
 
+Regeringar existerar genom och för folket, även om folk inte vet det. De data de samlar in, eller fond andra att samla in, i samband med att utföra sina lagstadgade uppgifter även tillhör folket, och på 21-talet det har snabbt blivit en av de mest värdefulla kollektiva nyttigheter vi har - men det ofta förblir oåtkomlig eller för dyr för de allra flesta. Open Data syftar till att regeringens uppgifter öppet tillgängliga för alla - tillgänglig för vem som helst, var som helst att ladda ner, användning, återanvändning och omfördela utan kostnad för något ändamål.
+
+I ett väl fungerande demokratiskt samhälle, medborgarna måste veta vad deras regering gör. För att göra det måste de ha möjlighet att fritt få tillgång till offentliga uppgifter och information och dela den informationen med andra medborgare. Medborgarnas grundläggande rätt att öppna offentliga uppgifterna härrör från dess allt mer avgörande roll för att vi ska kunna hålla våra regeringar ansvariga för att fullgöra sina skyldigheter, och att spela ett välgrundat och aktiv roll i beslut som påverkar oss.
+
+Dessutom skapar öppna regerings data nya möjligheter för entreprenörer, driver och förbättrad effektivitet inom regeringen, och förskott vetenskapliga framsteg. De initiala kostnader, inklusive eventuella förlorade intäkter från licenser och tillträdesavgifter, kommer att återbetalas många gånger om genom tillväxt av kunskap och innovativa datadrivna företag och tjänster som skapar arbetstillfällen, ger socialt värde.
